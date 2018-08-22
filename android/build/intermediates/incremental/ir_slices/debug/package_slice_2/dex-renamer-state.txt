@@ -1,0 +1,4 @@
+#Sat Aug 18 08:42:48 BRT 2018
+base.0=C\:\\Users\\MrDelicia\\Desktop\\FLAPPY BIRD\\android\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex

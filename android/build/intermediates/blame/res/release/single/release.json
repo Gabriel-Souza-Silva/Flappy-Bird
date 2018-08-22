@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\MrDelicia\\Desktop\\FLAPPY BIRD\\android\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_flappybird.png.flat",
+        "source": "C:\\Users\\MrDelicia\\Desktop\\FLAPPY BIRD\\android\\res\\drawable-mdpi\\ic_flappybird.png"
+    },
+    {
+        "merged": "C:\\Users\\MrDelicia\\Desktop\\FLAPPY BIRD\\android\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_flappybird.png.flat",
+        "source": "C:\\Users\\MrDelicia\\Desktop\\FLAPPY BIRD\\android\\res\\drawable-xxxhdpi\\ic_flappybird.png"
+    },
+    {
+        "merged": "C:\\Users\\MrDelicia\\Desktop\\FLAPPY BIRD\\android\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_flappybird.png.flat",
+        "source": "C:\\Users\\MrDelicia\\Desktop\\FLAPPY BIRD\\android\\res\\drawable-hdpi\\ic_flappybird.png"
+    },
+    {
+        "merged": "C:\\Users\\MrDelicia\\Desktop\\FLAPPY BIRD\\android\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_flappybird.png.flat",
+        "source": "C:\\Users\\MrDelicia\\Desktop\\FLAPPY BIRD\\android\\res\\drawable-xhdpi\\ic_flappybird.png"
+    }
+]
